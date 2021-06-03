@@ -13,10 +13,25 @@ header h1{
 
 header img{
 	border-radius: 150px;
+	border: 20px solid #483a94;
+
 }
 
 main img{
-	border-radius: 250px;
-	border-width: medium;
+	border-radius: 150px;
+	width: 500px;
+	border: 20px solid #483a94;
 
+}
+
+.spicy{
+	border-radius: 150px;
+	border: 20px solid #483a94;
+	width: 200px;
+
+}
+main{
+	background-color: darkmagenta;
+	text-align: center;
+	color: mediumaquamarine;
 }
