@@ -7,6 +7,16 @@ header{
 	text-align: center;
 }
 
+header h1{
+	color: aquamarine;
+}
+
 header img{
 	border-radius: 150px;
+}
+
+main img{
+	border-radius: 250px;
+	border-width: medium;
+
 }
