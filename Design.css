@@ -8,8 +8,12 @@ header{
 }
 
 header h1{
-	color: teal;
+	text-shadow: teal;
+	text-decoration-color: teal;
 }
 header img{
+	border-radius: 150px;
+}
+main img{
 	border-radius: 150px;
 }
