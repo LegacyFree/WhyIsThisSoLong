@@ -1,0 +1,12 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: magenta;
+	text-align: center;
+}
+
+header img{
+	border-radius: 150px;
+}
