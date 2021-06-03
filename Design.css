@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: magenta;
+	text-align: center;
+}
+
+header h1{
+	color: teal;
+}
+header img{
+	border-radius: 150px;
+}
